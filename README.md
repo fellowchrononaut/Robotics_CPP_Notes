@@ -1,6 +1,6 @@
 # Robotics & AI C++17 Notes
 
-![C++ Intro](./imgs/cpp_intro.png)
+![C++ Intro]()
 
 Welcome to our Modern C++ Course, specifically tailored for Engineers focusing on Robotics.
 
